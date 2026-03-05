@@ -31,11 +31,3 @@ In this lab, you will:
 | `README.md` | This file — overview and usage instructions. |
 
 ---
-
-## 🚀 Getting Started
-
-To run this lab on your local machine:
-
-1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/F-alanzi/Machine-Learning.git
