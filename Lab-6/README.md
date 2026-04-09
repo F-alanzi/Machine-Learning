@@ -82,6 +82,3 @@ Noise introduces unavoidable error, even with the best model.
   - `numpy`, `pandas`
   - `matplotlib` / `ggplot2`
   - `scikit-learn` (if Python)
-
----
-
