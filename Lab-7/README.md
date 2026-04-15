@@ -1,4 +1,4 @@
-# Lab 7: Clustering Algorithms (k-Means & EM)
+# Lab 7
 
 ## Overview
 This laboratory focus on the implementation and comparison of two popular unsupervised learning algorithms: **k-Means Clustering** and the **Expectation-Maximization (EM) Algorithm**. The objective is to group a set of data points into clusters based on their inherent similarities and analyze the performance differences between distance-based and probability-based clustering.
